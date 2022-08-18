@@ -1,1 +1,2 @@
-# CSC-234
+CSC-234
+Jamal Whyte
